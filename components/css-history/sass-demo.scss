@@ -1,0 +1,17 @@
+$color: #223421;
+
+body {
+  div {
+    width: 200px;
+    height: 200px;
+  }
+
+  .circle {
+    border-radius: 50%;
+    background-color: $color;
+  }
+
+  .rect {
+    background-color: $color;
+  }
+}

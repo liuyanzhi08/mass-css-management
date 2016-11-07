@@ -1,0 +1,8 @@
+body div {
+  width: 200px;
+  height: 200px; }
+body .circle {
+  border-radius: 50%;
+  background-color: #223421; }
+body .rect {
+  background-color: #223421; }
